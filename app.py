@@ -7,6 +7,7 @@ def home():
     print("Hello DevOps - updated version")
     print("Hello DevOps - Second ve")
     print("Hello DevOps - feature-branch")
+    print("Hello DevOps from MAIN branch")
     return "Hello DevOps!"
 
 if __name__ == '__main__':
